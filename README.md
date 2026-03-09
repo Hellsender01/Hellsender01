@@ -1,15 +1,14 @@
-### Hi There!!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-<a href="https://youtube.com/c/TheCyberExpert">
-  <img align="left" alt="Hrahsit's Youtube" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a>
-<a href="https://twitter.com/TheCyberExpert_">
-  <img align="left" alt="Hrahsit's Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/harshit-joshi-1b29a5199/">
-  <img align="left" alt="Harshit's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br />
-<br />
-<br />
+Security researcher who enjoys poking at systems that were never meant to break.
 
-<img align="center" alt="cover" src="bio.png">
+Lately I have been spending most of my time exploring AI and LLM security. 
+This includes prompt injection, agent based systems and red teaming language models.
+
+
+## What I am working on
+
+- Prompt Injection Taxonomy  
+  A growing collection of 253 prompt injection techniques organized into 17 attack categories with mapping to the OWASP LLM Top 10.  
+  The goal is to give practitioners something practical when testing real world LLM deployments.  
+  https://github.com/Hellsender01/prompt-injection-taxonomy
+
+- Researching attack surfaces in agent based AI systems and RAG pipelines
