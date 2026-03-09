@@ -8,7 +8,6 @@ This includes prompt injection, agent based systems and red teaming language mod
 
 - Prompt Injection Taxonomy  
   A growing collection of 253 prompt injection techniques organized into 17 attack categories with mapping to the OWASP LLM Top 10.  
-  The goal is to give practitioners something practical when testing real world LLM deployments.  
   https://github.com/Hellsender01/prompt-injection-taxonomy
 
 - Researching attack surfaces in agent based AI systems and RAG pipelines
