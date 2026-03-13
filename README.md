@@ -11,7 +11,7 @@ This includes prompt injection, agent based systems and red teaming language mod
   inspired by sqlmap. Discovers injection points in HTTP requests, generates targeted payloads 
   using a dual-LLM architecture and confirms findings with statistical reliability testing. 
   Covers 227 prompt injection techniques across 18 attack families with support for Ollama, 
-  OpenAI, Anthropic, and Google backends.
+  OpenAI, Anthropic and Google backends.
   [LLMMap](https://github.com/Hellsender01/LLMMap)
 
 - Prompt Injection Taxonomy  
