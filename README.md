@@ -6,6 +6,14 @@ This includes prompt injection, agent based systems and red teaming language mod
 
 ## What I am working on
 
+- **LLMMap**  
+  An automated prompt injection testing framework for LLM-integrated applications, 
+  inspired by sqlmap. Discovers injection points in HTTP requests, generates targeted payloads 
+  using a dual-LLM architecture and confirms findings with statistical reliability testing. 
+  Covers 227 prompt injection techniques across 18 attack families with support for Ollama, 
+  OpenAI, Anthropic, and Google backends.
+  [LLMMap](https://github.com/Hellsender01/LLMMap)
+
 - Prompt Injection Taxonomy  
   253 prompt injection techniques organized into 17 attack categories with mapping to the OWASP LLM Top 10.  
   [Prompt Injection Taxonomy](https://github.com/Hellsender01/prompt-injection-taxonomy)
